@@ -1,0 +1,35 @@
+[
+  {
+    "id": "9feab1e3-f902-4f73-aa09-15c6d9786028",
+    "items": [
+      {
+        "id": "2",
+        "name": "DDR4 32GB RAM Kit",
+        "price": 445.5,
+        "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg",
+        "quantity": 1
+      },
+      {
+        "id": "1",
+        "name": "Gaming Monitor 27\" 144Hz",
+        "price": 389.99,
+        "image": "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg",
+        "quantity": 1
+      }
+    ],
+    "total": 835.49,
+    "customerInfo": {
+      "fullName": "Muhammad Awais Rafique",
+      "email": "awaiss.rafique@gmail.com",
+      "phone": "",
+      "address": "",
+      "city": "",
+      "zipCode": "",
+      "paymentMethod": "cash-on-delivery",
+      "notes": ""
+    },
+    "orderDate": "2025-07-06T18:52:05.016Z",
+    "status": "pending",
+    "createdAt": "2025-07-06T18:52:05.053Z"
+  }
+]

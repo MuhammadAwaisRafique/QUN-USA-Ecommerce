@@ -6,5 +6,21 @@
     "name": "Muhammad Awais Rafique",
     "role": "customer",
     "createdAt": "2025-07-06T18:38:29.825Z"
+  },
+  {
+    "id": "demo-admin-001",
+    "email": "admin@qunusa.com",
+    "password": "$2a$10$iBj7fBQGyha9PfWQiQM3IOs27Ri4QL59eeVHp6D1j5O0w.2.fywK6",
+    "name": "Demo Admin",
+    "role": "admin",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "demo-user-001",
+    "email": "user@qunusa.com",
+    "password": "$2a$10$iBj7fBQGyha9PfWQiQM3IOs27Ri4QL59eeVHp6D1j5O0w.2.fywK6",
+    "name": "Demo User",
+    "role": "customer",
+    "createdAt": "2025-01-01T00:00:00.000Z"
   }
 ]

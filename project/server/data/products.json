@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "name": "Gaming Monitor 27\" 144Hz",
+    "description": "High-performance gaming monitor with 144Hz refresh rate, 1ms response time, and vibrant colors for immersive gaming experience.",
+    "price": 389.99,
+    "category": "Computer Hardware",
+    "image": "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg",
+    "inStock": true,
+    "features": ["144Hz refresh rate", "1ms response time", "27-inch display", "Full HD resolution"]
+  },
+  {
+    "id": "2",
+    "name": "DDR4 32GB RAM Kit",
+    "description": "High-speed DDR4 memory kit with 32GB capacity for enhanced multitasking and gaming performance.",
+    "price": 445.50,
+    "category": "Computer Hardware",
+    "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg",
+    "inStock": true,
+    "features": ["32GB capacity", "3200MHz speed", "Low latency", "Heat spreader"]
+  },
+  {
+    "id": "3",
+    "name": "Gaming Motherboard Z790",
+    "description": "Advanced gaming motherboard with latest chipset, multiple GPU support, and premium connectivity options.",
+    "price": 427.85,
+    "category": "Computer Hardware",
+    "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+    "inStock": true,
+    "features": ["Latest Z790 chipset", "Wi-Fi 6E", "Multiple PCIe slots", "RGB lighting"]
+  },
+  {
+    "id": "4",
+    "name": "Intel Core i7 Processor",
+    "description": "High-performance 12th gen Intel Core i7 processor with 12 cores and 20 threads for demanding applications.",
+    "price": 399.99,
+    "category": "Computer Hardware",
+    "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg",
+    "inStock": true,
+    "features": ["12 cores, 20 threads", "Up to 5.0 GHz", "12th generation", "Enhanced performance"]
+  },
+  {
+    "id": "5",
+    "name": "Wi-Fi 6E Router",
+    "description": "Next-generation Wi-Fi 6E router with tri-band technology and advanced security features for seamless connectivity.",
+    "price": 334.75,
+    "category": "Computer Hardware",
+    "image": "https://images.pexels.com/photos/4218883/pexels-photo-4218883.jpeg",
+    "inStock": true,
+    "features": ["Wi-Fi 6E technology", "Tri-band", "Advanced security", "High-speed connectivity"]
+  },
+  {
+    "id": "6",
+    "name": "Universal Smart Remote",
+    "description": "Smart universal remote control with voice commands, smartphone app integration, and support for all major brands.",
+    "price": 312.45,
+    "category": "Computer Hardware",
+    "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg",
+    "inStock": true,
+    "features": ["Voice control", "Smartphone app", "Universal compatibility", "Smart home integration"]
+  },
+  {
+    "id": "7",
+    "name": "Mechanical Gaming Mouse",
+    "description": "Precision gaming mouse with customizable RGB lighting, programmable buttons, and high DPI sensor.",
+    "price": 378.20,
+    "category": "Computer Hardware",
+    "image": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg",
+    "inStock": true,
+    "features": ["High DPI sensor", "RGB lighting", "Programmable buttons", "Ergonomic design"]
+  },
+  {
+    "id": "8",
+    "name": "Mechanical Gaming Keyboard",
+    "description": "Premium mechanical keyboard with tactile switches, customizable RGB backlighting, and dedicated macro keys.",
+    "price": 356.90,
+    "category": "Computer Hardware",
+    "image": "https://images.pexels.com/photos/1194713/pexels-photo-1194713.jpeg",
+    "inStock": true,
+    "features": ["Mechanical switches", "RGB backlighting", "Macro keys", "Anti-ghosting"]
+  },
+  {
+    "id": "9",
+    "name": "RTX 4070 Graphics Card",
+    "description": "Powerful gaming graphics card with ray tracing, DLSS 3.0, and 12GB GDDR6X memory for ultra-high performance.",
+    "price": 489.95,
+    "category": "Computer Hardware",
+    "image": "https://images.pexels.com/photos/21014/pexels-photo.jpg",
+    "inStock": true,
+    "features": ["Ray tracing", "DLSS 3.0", "12GB GDDR6X", "Ultra-high performance"]
+  },
+  {
+    "id": "10",
+    "name": "NVMe SSD 2TB",
+    "description": "Ultra-fast NVMe SSD with 2TB capacity, exceptional read/write speeds, and enhanced durability for demanding workloads.",
+    "price": 423.60,
+    "category": "Computer Hardware",
+    "image": "https://images.pexels.com/photos/159304/network-cable-ethernet-computer-159304.jpeg",
+    "inStock": true,
+    "features": ["2TB capacity", "NVMe interface", "High-speed performance", "Enhanced durability"]
+  },
+  {
+    "id": "11",
+    "name": "Noise-Canceling Headphones",
+    "description": "Premium wireless headphones with active noise cancellation, 30-hour battery life, and studio-quality sound.",
+    "price": 367.80,
+    "category": "Mobile Accessories",
+    "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg",
+    "inStock": true,
+    "features": ["Active noise cancellation", "30-hour battery", "Wireless connectivity", "Studio-quality sound"]
+  },
+  {
+    "id": "12",
+    "name": "True Wireless Earbuds Pro",
+    "description": "Professional-grade wireless earbuds with spatial audio, transparency mode, and adaptive EQ for perfect sound.",
+    "price": 398.50,
+    "category": "Mobile Accessories",
+    "image": "https://images.pexels.com/photos/341523/pexels-photo-341523.jpeg",
+    "inStock": true,
+    "features": ["Spatial audio", "Transparency mode", "Adaptive EQ", "Professional grade"]
+  },
+  {
+    "id": "13",
+    "name": "Portable Power Bank 20000mAh",
+    "description": "High-capacity power bank with fast charging, multiple ports, and digital display for all your mobile devices.",
+    "price": 334.25,
+    "category": "Mobile Accessories",
+    "image": "https://images.pexels.com/photos/4068314/pexels-photo-4068314.jpeg",
+    "inStock": true,
+    "features": ["20000mAh capacity", "Fast charging", "Multiple ports", "Digital display"]
+  },
+  {
+    "id": "14",
+    "name": "Professional Gimbal Stabilizer",
+    "description": "3-axis gimbal stabilizer for smartphones with intelligent tracking, gesture control, and professional video features.",
+    "price": 445.99,
+    "category": "Mobile Accessories",
+    "image": "https://images.pexels.com/photos/442150/pexels-photo-442150.jpeg",
+    "inStock": true,
+    "features": ["3-axis stabilization", "Intelligent tracking", "Gesture control", "Professional features"]
+  },
+  {
+    "id": "15",
+    "name": "Carbon Fiber Tripod",
+    "description": "Lightweight carbon fiber tripod with ball head, quick-release plate, and adjustable legs for professional photography.",
+    "price": 389.75,
+    "category": "Mobile Accessories",
+    "image": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg",
+    "inStock": true,
+    "features": ["Carbon fiber construction", "Ball head", "Quick-release plate", "Adjustable legs"]
+  },
+  {
+    "id": "16",
+    "name": "Wireless Charging Pad",
+    "description": "Fast wireless charging pad with LED indicators, foreign object detection, and universal compatibility.",
+    "price": 312.90,
+    "category": "Mobile Accessories",
+    "image": "https://images.pexels.com/photos/4068322/pexels-photo-4068322.jpeg",
+    "inStock": true,
+    "features": ["Fast wireless charging", "LED indicators", "Safety features", "Universal compatibility"]
+  },
+  {
+    "id": "17",
+    "name": "Smartphone Camera Lens Kit",
+    "description": "Professional camera lens kit with wide-angle, macro, and telephoto lenses for enhanced mobile photography.",
+    "price": 356.40,
+    "category": "Mobile Accessories",
+    "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg",
+    "inStock": true,
+    "features": ["Multiple lens types", "Professional quality", "Easy attachment", "Enhanced photography"]
+  },
+  {
+    "id": "18",
+    "name": "Bluetooth Speaker Waterproof",
+    "description": "Rugged waterproof Bluetooth speaker with 360-degree sound, 24-hour battery, and voice assistant integration.",
+    "price": 423.15,
+    "category": "Mobile Accessories",
+    "image": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg",
+    "inStock": true,
+    "features": ["Waterproof design", "360-degree sound", "24-hour battery", "Voice assistant"]
+  },
+  {
+    "id": "19",
+    "name": "Car Mount Wireless Charger",
+    "description": "Automatic car mount with wireless charging, one-touch release, and 15W fast charging for secure phone mounting.",
+    "price": 378.65,
+    "category": "Mobile Accessories",
+    "image": "https://images.pexels.com/photos/1319839/pexels-photo-1319839.jpeg",
+    "inStock": true,
+    "features": ["Wireless charging", "One-touch release", "15W fast charging", "Secure mounting"]
+  },
+  {
+    "id": "20",
+    "name": "Phone Case with Card Holder",
+    "description": "Premium leather phone case with magnetic card holder, RFID blocking, and military-grade drop protection.",
+    "price": 334.80,
+    "category": "Mobile Accessories",
+    "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg",
+    "inStock": true,
+    "features": ["Premium leather", "Card holder", "RFID blocking", "Drop protection"]
+  },
+  {
+    "id": "21",
+    "name": "Digital Blood Pressure Monitor",
+    "description": "Professional-grade digital BP monitor with large display, memory storage, and irregular heartbeat detection.",
+    "price": 387.50,
+    "category": "Medical Equipment",
+    "image": "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg",
+    "inStock": true,
+    "features": ["Large display", "Memory storage", "Heartbeat detection", "Professional grade"]
+  },
+  {
+    "id": "22",
+    "name": "Smart Digital Scale",
+    "description": "Advanced digital scale with body composition analysis, smartphone app, and multiple user profiles for health tracking.",
+    "price": 345.99,
+    "category": "Medical Equipment",
+    "image": "https://images.pexels.com/photos/6975474/pexels-photo-6975474.jpeg",
+    "inStock": true,
+    "features": ["Body composition", "Smartphone app", "Multiple users", "Health tracking"]
+  },
+  {
+    "id": "23",
+    "name": "Professional First Aid Kit",
+    "description": "Comprehensive first aid kit with emergency supplies, medical tools, and detailed instruction manual for home and office.",
+    "price": 298.75,
+    "category": "Medical Equipment",
+    "image": "https://images.pexels.com/photos/263402/pexels-photo-263402.jpeg",
+    "inStock": true,
+    "features": ["Comprehensive supplies", "Medical tools", "Instruction manual", "Emergency ready"]
+  },
+  {
+    "id": "24",
+    "name": "Portable Nebulizer",
+    "description": "Compact portable nebulizer with rechargeable battery, quiet operation, and adjustable mist settings for respiratory care.",
+    "price": 456.30,
+    "category": "Medical Equipment",
+    "image": "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg",
+    "inStock": true,
+    "features": ["Portable design", "Rechargeable battery", "Quiet operation", "Adjustable settings"]
+  },
+  {
+    "id": "25",
+    "name": "Pulse Oximeter",
+    "description": "Professional pulse oximeter with LED display, carrying case, and accurate SpO2 and pulse rate measurements.",
+    "price": 312.85,
+    "category": "Medical Equipment",
+    "image": "https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg",
+    "inStock": true,
+    "features": ["LED display", "Carrying case", "Accurate measurements", "Professional grade"]
+  },
+  {
+    "id": "26",
+    "name": "Digital Thermometer",
+    "description": "Fast-reading digital thermometer with fever alarm, memory recall, and waterproof design for reliable temperature monitoring.",
+    "price": 298.40,
+    "category": "Medical Equipment",
+    "image": "https://images.pexels.com/photos/4386433/pexels-photo-4386433.jpeg",
+    "inStock": true,
+    "features": ["Fast reading", "Fever alarm", "Memory recall", "Waterproof design"]
+  },
+  {
+    "id": "27",
+    "name": "Compression Therapy Device",
+    "description": "Advanced compression therapy device with multiple pressure settings, timer function, and comfortable cuffs for recovery.",
+    "price": 489.95,
+    "category": "Medical Equipment",
+    "image": "https://images.pexels.com/photos/4386431/pexels-photo-4386431.jpeg",
+    "inStock": true,
+    "features": ["Multiple settings", "Timer function", "Comfortable cuffs", "Recovery therapy"]
+  },
+  {
+    "id": "28",
+    "name": "Glucose Monitoring System",
+    "description": "Complete glucose monitoring system with test strips, lancets, and smartphone connectivity for diabetes management.",
+    "price": 423.70,
+    "category": "Medical Equipment",
+    "image": "https://images.pexels.com/photos/4386464/pexels-photo-4386464.jpeg",
+    "inStock": true,
+    "features": ["Complete system", "Test strips included", "Smartphone connectivity", "Diabetes management"]
+  },
+  {
+    "id": "29",
+    "name": "UV Sterilizer Cabinet",
+    "description": "Professional UV sterilizer cabinet with automatic shut-off, LED indicators, and large capacity for medical equipment.",
+    "price": 456.80,
+    "category": "Medical Equipment",
+    "image": "https://images.pexels.com/photos/4386462/pexels-photo-4386462.jpeg",
+    "inStock": true,
+    "features": ["UV sterilization", "Automatic shut-off", "LED indicators", "Large capacity"]
+  },
+  {
+    "id": "30",
+    "name": "Stethoscope Professional",
+    "description": "High-quality stethoscope with dual-head design, comfortable ear tips, and excellent acoustic performance for medical professionals.",
+    "price": 378.25,
+    "category": "Medical Equipment",
+    "image": "https://images.pexels.com/photos/4386439/pexels-photo-4386439.jpeg",
+    "inStock": true,
+    "features": ["Dual-head design", "Comfortable ear tips", "Excellent acoustics", "Professional quality"]
+  },
+  {
+    "id": "31",
+    "name": "Smart Coffee Maker",
+    "description": "Programmable smart coffee maker with WiFi connectivity, voice control, and customizable brewing settings for perfect coffee.",
+    "price": 398.99,
+    "category": "Home Appliances",
+    "image": "https://images.pexels.com/photos/4239146/pexels-photo-4239146.jpeg",
+    "inStock": true,
+    "features": ["WiFi connectivity", "Voice control", "Programmable", "Customizable brewing"]
+  },
+  {
+    "id": "32",
+    "name": "Air Purifier HEPA",
+    "description": "Advanced HEPA air purifier with smart sensors, app control, and 99.97% filtration efficiency for clean indoor air.",
+    "price": 445.50,
+    "category": "Home Appliances",
+    "image": "https://images.pexels.com/photos/4239142/pexels-photo-4239142.jpeg",
+    "inStock": true,
+    "features": ["HEPA filtration", "Smart sensors", "App control", "99.97% efficiency"]
+  },
+  {
+    "id": "33",
+    "name": "Robot Vacuum Cleaner",
+    "description": "Intelligent robot vacuum with mapping technology, self-charging, and smartphone app control for automated cleaning.",
+    "price": 467.85,
+    "category": "Home Appliances",
+    "image": "https://images.pexels.com/photos/4239144/pexels-photo-4239144.jpeg",
+    "inStock": true,
+    "features": ["Mapping technology", "Self-charging", "App control", "Automated cleaning"]
+  },
+  {
+    "id": "34",
+    "name": "Smart Thermostat",
+    "description": "Energy-efficient smart thermostat with learning algorithms, remote control, and compatibility with major smart home systems.",
+    "price": 356.75,
+    "category": "Home Appliances",
+    "image": "https://images.pexels.com/photos/4239140/pexels-photo-4239140.jpeg",
+    "inStock": true,
+    "features": ["Learning algorithms", "Remote control", "Energy efficient", "Smart home compatible"]
+  },
+  {
+    "id": "35",
+    "name": "Electric Pressure Cooker",
+    "description": "Multi-function electric pressure cooker with 15 preset programs, safety features, and large capacity for family meals.",
+    "price": 389.40,
+    "category": "Home Appliances",
+    "image": "https://images.pexels.com/photos/4239148/pexels-photo-4239148.jpeg",
+    "inStock": true,
+    "features": ["15 preset programs", "Safety features", "Large capacity", "Multi-function"]
+  },
+  {
+    "id": "36",
+    "name": "Smart Refrigerator",
+    "description": "Energy-efficient smart refrigerator with touchscreen display, internal cameras, and inventory management features.",
+    "price": 489.99,
+    "category": "Home Appliances",
+    "image": "https://images.pexels.com/photos/4239143/pexels-photo-4239143.jpeg",
+    "inStock": true,
+    "features": ["Touchscreen display", "Internal cameras", "Inventory management", "Energy efficient"]
+  },
+  {
+    "id": "37",
+    "name": "Dishwasher Smart",
+    "description": "Quiet smart dishwasher with multiple wash cycles, energy star rating, and smartphone connectivity for convenient operation.",
+    "price": 423.60,
+    "category": "Home Appliances",
+    "image": "https://images.pexels.com/photos/4239145/pexels-photo-4239145.jpeg",
+    "inStock": true,
+    "features": ["Multiple wash cycles", "Energy star rated", "Smartphone connectivity", "Quiet operation"]
+  },
+  {
+    "id": "38",
+    "name": "Smart Washing Machine",
+    "description": "High-efficiency washing machine with smart features, steam cleaning, and various wash programs for all fabric types.",
+    "price": 456.30,
+    "category": "Home Appliances",
+    "image": "https://images.pexels.com/photos/4239141/pexels-photo-4239141.jpeg",
+    "inStock": true,
+    "features": ["Smart features", "Steam cleaning", "Various programs", "High efficiency"]
+  },
+  {
+    "id": "39",
+    "name": "Microwave Convection Oven",
+    "description": "Combination microwave and convection oven with sensor cooking, preset functions, and stainless steel interior.",
+    "price": 378.90,
+    "category": "Home Appliances",
+    "image": "https://images.pexels.com/photos/4239147/pexels-photo-4239147.jpeg",
+    "inStock": true,
+    "features": ["Convection cooking", "Sensor cooking", "Preset functions", "Stainless steel interior"]
+  },
+  {
+    "id": "40",
+    "name": "Smart Home Security System",
+    "description": "Comprehensive home security system with cameras, sensors, smartphone alerts, and 24/7 monitoring capabilities.",
+    "price": 489.75,
+    "category": "Home Appliances",
+    "image": "https://images.pexels.com/photos/4239149/pexels-photo-4239149.jpeg",
+    "inStock": true,
+    "features": ["Multiple cameras", "Smart sensors", "24/7 monitoring", "Smartphone alerts"]
+  }
+]

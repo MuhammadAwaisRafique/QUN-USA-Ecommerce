@@ -121,6 +121,9 @@ export default function Navbar() {
             <Link to="/refund-policy" className="text-gray-600 hover:text-blue-600 transition-colors py-2">
               Refund Policy
             </Link>
+            <Link to="/#wholesale" className="text-gray-600 hover:text-blue-600 transition-colors py-2">
+              Wholesale
+            </Link>
           </div>
         </div>
       </div>
@@ -163,6 +166,9 @@ export default function Navbar() {
             </Link>
             <Link to="/refund-policy" className="block text-gray-600 hover:text-blue-600 py-2" onClick={() => setIsMenuOpen(false)}>
               Refund Policy
+            </Link>
+            <Link to="/#wholesale" className="block text-gray-600 hover:text-blue-600 py-2" onClick={() => setIsMenuOpen(false)}>
+              Wholesale
             </Link>
 
             {/* Mobile Cart */}

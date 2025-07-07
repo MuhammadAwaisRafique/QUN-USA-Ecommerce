@@ -86,8 +86,8 @@ export default function ContactPage() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800">Office Address</h3>
                   <p className="text-gray-600">
-                    123 Business Avenue<br />
-                    Commerce City, CC 12345<br />
+                    2021 Key street,<br />
+                    Maumee, Ohio 43537<br />
                     United States
                   </p>
                 </div>

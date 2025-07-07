@@ -20,12 +20,12 @@ export default function Footer() {
             <div className="flex space-x-4">
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span className="text-sm">+1 (555) 123-4567</span>
-              </div>
+                <span className="text-sm">+1 (413) 474-8410 </span>
+              </div> 
             </div>
             <div className="flex items-center space-x-2 mt-2">
               <Mail className="h-4 w-4" />
-              <span className="text-sm">contact@qunusa.com</span>
+              <span className="text-sm">qunusallc@gmail.com</span>
             </div>
           </div>
 
@@ -67,8 +67,8 @@ export default function Footer() {
               <div className="flex items-start space-x-2">
                 <MapPin className="h-4 w-4 mt-1" />
                 <span className="text-sm text-gray-300">
-                  123 Business Ave<br />
-                  Commerce City, CC 12345<br />
+                  2021 key street<br />
+                  Maumee, Ohio (43537)<br />
                   United States
                 </span>
               </div>

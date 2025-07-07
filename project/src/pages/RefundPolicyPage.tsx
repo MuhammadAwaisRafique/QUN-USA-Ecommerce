@@ -48,8 +48,8 @@ export default function RefundPolicyPage() {
               </div>
               <div className="bg-green-50 border border-green-200 rounded-lg p-4">
                 <p className="text-gray-700">
-                  <strong>30-Day Return Window:</strong> You have 30 days from the date of delivery to initiate a return. 
-                  This generous return period allows you to thoroughly test and evaluate your purchase.
+                  <strong>15-Day Return Window:</strong> You have 15 days from the date of delivery to initiate a return. 
+                  This return period allows you to thoroughly test and evaluate your purchase.
                 </p>
               </div>
             </section>

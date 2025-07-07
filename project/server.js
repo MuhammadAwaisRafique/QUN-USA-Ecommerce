@@ -28,6 +28,9 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'Server is running!' });
 });
 
+// Serve pictures from the data/pictures directory
+app.use('/pictures', express.static(path.join(__dirname, 'server/data/pictures')));
+
 // Serve static files from the React app build directory
 app.use(express.static(path.join(__dirname, 'dist')));
 

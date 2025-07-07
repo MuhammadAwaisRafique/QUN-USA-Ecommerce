@@ -18,6 +18,9 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
+// Serve pictures from the data/pictures directory
+app.use('/pictures', express.static(path.join(__dirname, 'data/pictures')));
+
 // Routes
 app.use('/api/auth', authRoutes);
 app.use('/api/products', productRoutes);

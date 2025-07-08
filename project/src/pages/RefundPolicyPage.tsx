@@ -129,7 +129,7 @@ export default function RefundPolicyPage() {
                     <span className="text-xl font-bold text-blue-600">1</span>
                   </div>
                   <h4 className="font-semibold text-gray-800 mb-2">Contact Us</h4>
-                  <p className="text-sm text-gray-600">Call +1 (555) 123-4567 or email contact@qunusa.com to initiate your return</p>
+                  <p className="text-sm text-gray-600">Call +1 (413) 474-8410 or email qunusallc@gmail.com to initiate your return</p>
                 </div>
                 
                 <div className="text-center p-4 border border-gray-200 rounded-lg">
@@ -217,12 +217,12 @@ export default function RefundPolicyPage() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div>
                   <strong className="text-gray-800">Phone:</strong>
-                  <p className="text-gray-700">+1 (555) 123-4567</p>
+                  <p className="text-gray-700">+1 (413) 474-8410</p>
                   <p className="text-sm text-gray-600">Mon-Fri 9AM-6PM EST</p>
                 </div>
                 <div>
                   <strong className="text-gray-800">Email:</strong>
-                  <p className="text-gray-700">contact@qunusa.com</p>
+                  <p className="text-gray-700">qunusallc@gmail.com</p>
                   <p className="text-sm text-gray-600">24-hour response time</p>
                 </div>
               </div>

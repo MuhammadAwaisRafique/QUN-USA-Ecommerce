@@ -61,7 +61,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800">Phone</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+1 (413) 474-8410</p>
                   <p className="text-sm text-gray-500">Mon-Fri 9AM-6PM EST</p>
                 </div>
               </div>
@@ -73,7 +73,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800">Email</h3>
-                  <p className="text-gray-600">contact@qunusa.com</p>
+                  <p className="text-gray-600">qunusallc@gmail.com</p>
                   <p className="text-sm text-gray-500">We respond within 24 hours</p>
                 </div>
               </div>
@@ -223,7 +223,7 @@ export default function ContactPage() {
             <div className="mt-6 p-4 bg-gray-50 rounded-lg">
               <p className="text-sm text-gray-600 text-center">
                 For urgent matters, please call us directly at{' '}
-                <span className="font-semibold text-blue-600">+1 (555) 123-4567</span>
+                <span className="font-semibold text-blue-600">+1 (413) 474-8410</span>
               </p>
             </div>
           </div>
